@@ -661,6 +661,9 @@ function Index() {
         </div>
       </section>
 
+      {/* Phase 1 Funding — Financials, Facilities, Inside the Hospital */}
+      <Phase1FundingSection />
+
       {/* The System — collaborative framework */}
       <SystemSection />
 
