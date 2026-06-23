@@ -83,6 +83,7 @@ const phaseNav = [
   { id: "phase-05", n: "05", name: "Soham Alaya" },
   { id: "phase-06", n: "06", name: "Circle of Coexistence" },
   { id: "phase-07", n: "07", name: "Vision Realised" },
+  { id: "phase-1-funding", n: "₹", name: "Phase 1 Funding" },
   { id: "the-system", n: "✦", name: "The System" },
 ];
 
